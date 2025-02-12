@@ -14,28 +14,6 @@ compactness_mean, concavity_mean, concave points_mean, symmetry_mean, fractal_di
 
 ..._worst: Worst (largest) values for each feature across all cell nuclei in the sample
 
-Unnamed: 32: An empty column (possibly unnecessary)
-
-Usage
-
-To load this dataset in Python using pandas:
-
-import pandas as pd
-
-# Load the dataset
-df = pd.read_csv('data.csv')
-
-# Display first few rows
-print(df.head())
-
-License
-
-Ensure that you have the appropriate permissions to use and distribute this dataset. The dataset should be used for research, analysis, and educational purposes only.
-
-Contribution
-
-Feel free to contribute by improving the dataset, adding more insights, or creating visualizations to better understand the data.
-
 Here are the steps to use this dataset effectively:
 
 1. Download and Prepare the Dataset
